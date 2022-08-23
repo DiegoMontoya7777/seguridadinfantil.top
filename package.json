@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DiegoMontoya7777/seguridadinfantil.top/issues"
   },
-  "homepage": "https://github.com/DiegoMontoya7777/seguridadinfantil.top#readme"
+  "homepage": "https://github.com/DiegoMontoya7777/seguridadinfantil.top#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
